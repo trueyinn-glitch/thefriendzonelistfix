@@ -18,13 +18,8 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
-    // Old formula
-    /*
-    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
-    */
-    // New formula
-    let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
+    // New formula scaled for a maximum of 350 points at rank 1
+    let score = (-43.745625 * Math.pow(rank - 1, 0.4) + 350) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
@@ -50,5 +45,7 @@ export function round(num) {
             'e-' +
             scale
         );
+    }
+}
     }
 }
