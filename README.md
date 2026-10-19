@@ -1,2 +1,0 @@
-# thefriendzonelistfix
-friendzone list repository
