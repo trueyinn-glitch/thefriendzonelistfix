@@ -1,0 +1,27 @@
+[
+    {
+        "role": "owner",
+        "name": "TrueYinn",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "admin",
+        "name": "JLPK",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "helper",
+        "name": "Pinvyy",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helpers",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "List Coders",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }
+]
