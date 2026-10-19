@@ -10,6 +10,50 @@ window.__DATA__ = {
     "password": "No Copy",
     "records": []
   },
+  "BISONXNEVERCLEAR2": {
+    "id": 129038098,
+    "name": "BISONX NEVER CLEAR 2",
+    "author": "TrueYinn",
+    "creators": [],
+    "verifier": "PixelGD",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
+    "percentToQualify": 67,
+    "password": "No Copy",
+    "records": []
+  },
+  "RealWave": {
+    "id": 125376798,
+    "name": "Real Wave",
+    "author": "TrueYinn",
+    "creators": [],
+    "verifier": "TrueYinn",
+    "verification": "https://medal.tv/games/geometry-dash/clips/nKBnu0JAj6WnjgZig?invite=cr-MSxnSjUsMjkzNzU2OTcy",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": []
+  },
+  "Joevember": {
+    "id": 150883005,
+    "name": "Joevember",
+    "author": "LJPK",
+    "creators": [],
+    "verifier": "LJPK",
+    "verification": "https://medal.tv/games/geometry-dash/clips/nKBnu0JAj6WnjgZig?invite=cr-MSxnSjUsMjkzNzU2OTcy",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": []
+  },
+  "BLINDED": {
+    "id": 125137830,
+    "name": "BLINDED",
+    "author": "TrueYinn",
+    "creators": [],
+    "verifier": "TrueYinn",
+    "verification": "https://medal.tv/games/geometry-dash/clips/nKBnu0JAj6WnjgZig?invite=cr-MSxnSjUsMjkzNzU2OTcy",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": []
+  },
   "Aria": {
     "id": 144057003,
     "name": "Aria",
@@ -94,10 +138,14 @@ window.__DATA__ = {
   ],
   "_list": [
     "Sine",
-    "99156073",
-    "LevelForHumanoid",
+    "BISONXNEVERCLEAR2",
     "BISONXNEVERCLEAR",
+    "99156073",
+    "Joevember",
     "TheRealRedChallenge",
-    "Aria"
+    "Aria",
+    "RealWave",
+    "LevelForHumanoid",
+    "BLINDED"
   ]
 };
